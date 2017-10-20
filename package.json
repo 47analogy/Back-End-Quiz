@@ -1,0 +1,25 @@
+{
+  "name": "Back-End-Quiz",
+  "version": "1.0.0",
+  "description": "* Write all of your responses to the questions below in a `server.js` file. You can comment out your responses to the written questions like so:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/47analogy/Back-End-Quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/47analogy/Back-End-Quiz/issues"
+  },
+  "homepage": "https://github.com/47analogy/Back-End-Quiz#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.3"
+  }
+}
